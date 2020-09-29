@@ -57,5 +57,5 @@ __intersect_with(bloom_filter)__ - intersects current bloom filter with another 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/superedriver/bloom_filter
+Bug reports and pull requests are welcome on GitHub at https://github.com/superedriver/qbloom_filter
 

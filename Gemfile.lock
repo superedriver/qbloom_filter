@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    qbloom_filter (0.3.2)
+    qbloom_filter (0.3.4)
 
 GEM
   remote: https://rubygems.org/
